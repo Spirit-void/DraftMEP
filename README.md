@@ -1,89 +1,156 @@
-<!-- ===================== HEADER ANIMASI ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:ffffff&height=220&section=header&text=Fauzan%20Hazima&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=MEP%20Engineer%20%C2%B7%20BIM%20Modeler%20%C2%B7%20Web%20Developer&descAlignY=58&descSize=18" alt="header" />
-</p>
+<div align="center">
 
-<!-- ===================== PROFILE AVATAR / BANNER ESTETIK ===================== -->
-<p align="center">
-  <img src="https://yt3.googleusercontent.com/A864J6JgeFKWCV_ZpUN-4zoOnZI90CQUG6gMxwdEgX5jpK5RIXZEci8B7b4Xc9BUCdQrCW6UN-8=s900-c-k-c0x00ffffff-no-rj" width="130" height="130" alt="Avatar" style="border-radius: 50%; border: 3px solid #ffffff; box-shadow: 0px 4px 20px rgba(255, 255, 255, 0.2);" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,35:1a0000,65:400000,100:8B0000&height=280&section=header&text=FAUZAN%20HAZIMA&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&stroke=FF2020&strokeWidth=2&desc=MEP%20ENGINEER%20%E2%80%A2%20BIM%20ENGINEER%20%E2%80%A2%20AUTOMATION%20BUILDER&descAlignY=62&descSize=16&descColor=FF3B3B" width="100%" alt="header" />
 
-<!-- ===================== TYPING ANIMASI (PUTIH ELEGAN) ===================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=680&lines=Mechanical+%C2%B7+Electrical+%C2%B7+Plumbing+Engineer;Full-Stack%3A+React+%C2%B7+Supabase+%C2%B7+Realtime+Data;Detail+Engineering+Design+(DED)+%26+BIM;Dari+lapangan+konstruksi+ke+baris+kode." alt="typing" />
-</p>
+```
+        ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+              ☠  ENGINEERING COMBAT SYSTEM  ☠
+        ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
 
-<p align="center">
-  <b>MEP Engineer · Freelance · Jakarta, Indonesia 🇮🇩</b><br/>
-  <sub>🌐 <a href="https://www.draftmep.web.id">draftmep.web.id</a> &nbsp;|&nbsp; 📧 draftmepid@gmail.com &nbsp;|&nbsp; 📱 0822 4637 1931</sub>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=21&duration=1600&pause=400&color=FF2020&center=true&vCenter=true&width=900&height=60&lines=ENGINEERING+IS+A+BATTLEFIELD.;SYSTEMS+UNDER+PRESSURE.;BREAK+THE+LIMITS.;AUTOMATE+OR+BE+LEFT+BEHIND.;PRECISION+IS+THE+WEAPON." alt="typing" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DRAFTMEPID&label=Profile%20Views&color=ffffff&style=flat-square" alt="views"/>
-</p>
+<br>
 
----
+<a href="https://www.draftmep.web.id"><img src="https://img.shields.io/badge/DRAFTMEP-8B0000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="mailto:draftmepid@gmail.com"><img src="https://img.shields.io/badge/EMAIL-990000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://wa.me/6282246371931"><img src="https://img.shields.io/badge/WHATSAPP-660000?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
-## 👤 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:550000,100:FF0000&height=6" width="100%" />
 
-I am a **MEP Engineer and BIM Modeler** with a strong focus on technical precision and design efficiency. My professional journey is defined by a deep commitment to optimizing construction workflows through engineering automation.
+</div>
 
-Beyond traditional MEP drafting, I specialize in building custom software tools using **Python and AutoLISP** to streamline complex design processes, such as HVAC calculations and project management tasks. Driven by curiosity and a developer's mindset, I constantly explore the intersection of construction engineering, software development, and AI to create smarter, more efficient solutions for the industry.
+<br>
 
-> *"Bridging the gap between construction sites and code — engineering precision meets software innovation."*
+## ☠ PROFILE
 
----
+```text
+╔══════════════════════════════════════════════════════════╗
+║  I don't just draw systems.                              ║
+║  I build the systems that build the systems.              ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-## 🔧 Engineering Tools
+MEP Engineer & BIM Engineer focused on **engineering automation** — turning repetitive HVAC, plumbing, fire fighting, and electrical drafting work into automated pipelines using **Python, AutoLISP, C#, Dynamo, Revit, AutoCAD**, and **AI**.
 
-![AutoCAD](https://img.shields.io/badge/AutoCAD-2D%2F3D-EF3A24?style=flat&logo=autodesk&logoColor=white)
-![Revit](https://img.shields.io/badge/Revit-BIM-0696D7?style=flat&logo=autodesk&logoColor=white)
-![Sketchup](https://img.shields.io/badge/SketchUp-3D-005F9E?style=flat)
-![ETAP](https://img.shields.io/badge/ETAP-Power%20System-facc15?style=flat)
+```
+   MEP  ──▶  BIM  ──▶  CAD AUTOMATION  ──▶  SOFTWARE  ──▶  AI  ──▶  AUTONOMOUS WORKFLOWS
+```
 
-## 💻 Web Development
+<br>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-15-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+## ⚔ ARSENAL
 
-## 🗄️ Backend · Data · Realtime
+<table align="center" width="100%">
+<tr>
+<td width="25%" align="center" valign="top">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![AI / LLM](https://img.shields.io/badge/AI%20%2F%20LLM-Integration-a855f7?style=flat&logo=openai&logoColor=white)
+**☠ MEP**
+<br><br>
+`HVAC`
+`Plumbing`
+`Fire Fighting`
+`Electrical`
 
-## 🧰 Workflow
+</td>
+<td width="25%" align="center" valign="top">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+**⚔ BIM / CAD**
+<br><br>
+`Revit`
+`AutoCAD`
+`Dynamo`
+`SketchUp`
 
----
+</td>
+<td width="25%" align="center" valign="top">
 
-## 📬 Hubungi Saya
+**💀 CODE**
+<br><br>
+`Python`
+`AutoLISP`
+`C# / .NET`
+`TypeScript`
 
-<p align="center">
-  <a href="https://www.draftmep.web.id">
-    <img src="https://img.shields.io/badge/Website-draftmep.web.id-ffffff?style=for-the-badge&logo=googlechrome&logoColor=black"/>
-  </a>
-  &nbsp;
-  <a href="mailto:draftmepid@gmail.com">
-    <img src="https://img.shields.io/badge/Email-draftmepid%40gmail.com-ffffff?style=for-the-badge&logo=gmail&logoColor=black"/>
-  </a>
-  &nbsp;
-  <a href="https://wa.me/6282246371931">
-    <img src="https://img.shields.io/badge/WhatsApp-0822%204637%201931-ffffff?style=for-the-badge&logo=whatsapp&logoColor=black"/>
-  </a>
-</p>
+</td>
+<td width="25%" align="center" valign="top">
 
-<p align="center">
-  <sub>⚙️ MEP Engineer by profession · 💻 Web Developer by curiosity · 🤖 AI enthusiast by passion</sub>
-</p>
+**🤖 AI**
+<br><br>
+`LLM Agents`
+`Computer Vision`
+`API Integration`
+`Automation AI`
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:1f2937,100:0d1117&height=120&section=footer" alt="footer" />
-</p>
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🔥 SYSTEM STATUS
+
+```text
+MEP ENGINEERING     ████████████████████  100%
+BIM DEVELOPMENT     ███████████████████░   95%
+CAD AUTOMATION      ████████████████████  100%
+PYTHON              ██████████████████░░   90%
+AUTOLISP            ████████████████████  100%
+C# / .NET           ███████████████░░░░░   75%
+DYNAMO               ██████████████████░░   90%
+AI ENGINEERING       ███████████████░░░░░   75%
+```
+
+<br>
+
+## ☠ CORE PROTOCOL
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                            │
+│   DON'T REPEAT WHAT CAN BE AUTOMATED.                     │
+│   DON'T ACCEPT WHAT CAN BE IMPROVED.                      │
+│   DON'T FEAR COMPLEX SYSTEMS — CONTROL THEM.               │
+│                                                            │
+└──────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+## 💀 GITHUB BATTLEFIELD
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=FAUZANHAZIMA&show_icons=true&theme=dark&bg_color=050505&title_color=FF0000&icon_color=FF0000&text_color=e8e8e8&border_color=8B0000" height="175" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAUZANHAZIMA&layout=compact&theme=dark&bg_color=050505&title_color=FF0000&text_color=e8e8e8&border_color=8B0000" height="175" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FAUZANHAZIMA&theme=dark&background=050505&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=e8e8e8&border=8B0000" width="700" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=FAUZANHAZIMA&theme=darkhub&no-frame=true&margin-w=8&column=4" width="850" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+```text
+               ☠ ☠ ☠ ☠ ☠
+
+     ENGINEERING NEVER SLEEPS.
+     BUILD HARD. THINK DEEP. AUTOMATE EVERYTHING.
+
+               ☠ ☠ ☠ ☠ ☠
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=1200&pause=400&color=FF2020&center=true&vCenter=true&width=900&height=45&lines=SYSTEM+ONLINE...;ENGINEERING+CORE+ACTIVE...;AUTOMATION+CORE+ACTIVE...;READY+FOR+THE+NEXT+BUILD..." alt="status" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:300000,100:000000&height=130&section=footer" width="100%" />
+
+</div>
