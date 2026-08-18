@@ -1,20 +1,25 @@
 <!-- ===================== HEADER ANIMASI ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:065f46,100:00e676&height=210&section=header&text=Fauzan%20Hazima&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=MEP%20Engineer%20%C2%B7%20Web%20Developer%20%C2%B7%20AI%20Enthusiast&descAlignY=58&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:ffffff&height=220&section=header&text=Fauzan%20Hazima&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=MEP%20Engineer%20%C2%B7%20BIM%20Modeler%20%C2%B7%20Web%20Developer&descAlignY=58&descSize=18" alt="header" />
 </p>
 
-<!-- ===================== TYPING ANIMASI ===================== -->
+<!-- ===================== PROFILE AVATAR / BANNER ESTETIK ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00E676&center=true&vCenter=true&width=650&lines=Mechanical+%C2%B7+Electrical+%C2%B7+Plumbing+Engineer;Full-Stack%3A+React+%C2%B7+Supabase+%C2%B7+Realtime+Data;Detail+Engineering+Design+(DED)+%26+BIM;Dari+lapangan+konstruksi+ke+baris+kode." alt="typing" />
+  <img src="https://yt3.googleusercontent.com/A864J6JgeFKWCV_ZpUN-4zoOnZI90CQUG6gMxwdEgX5jpK5RIXZEci8B7b4Xc9BUCdQrCW6UN-8=s900-c-k-c0x00ffffff-no-rj" width="130" height="130" alt="Avatar" style="border-radius: 50%; border: 3px solid #ffffff; box-shadow: 0px 4px 20px rgba(255, 255, 255, 0.2);" />
+</p>
+
+<!-- ===================== TYPING ANIMASI (PUTIH ELEGAN) ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=680&lines=Mechanical+%C2%B7+Electrical+%C2%B7+Plumbing+Engineer;Full-Stack%3A+React+%C2%B7+Supabase+%C2%B7+Realtime+Data;Detail+Engineering+Design+(DED)+%26+BIM;Dari+lapangan+konstruksi+ke+baris+kode." alt="typing" />
 </p>
 
 <p align="center">
-  <b>MEP Engineer · Freelance · Cikarang, Indonesia 🇮🇩</b><br/>
-  <sub>🌐 <a href="https://www.draftmep.web.id">draftmep.web.id</a> &nbsp;|&nbsp; 📧 draftmepid@gmail.com &nbsp;|&nbsp; 📱 0895370734896</sub>
+  <b>MEP Engineer · Freelance · Jakarta, Indonesia 🇮🇩</b><br/>
+  <sub>🌐 <a href="https://www.draftmep.web.id">draftmep.web.id</a> &nbsp;|&nbsp; 📧 draftmepid@gmail.com &nbsp;|&nbsp; 📱 0822 4637 1931</sub>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DRAFTMEPID&label=Profile%20Views&color=00e676&style=flat-square" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=DRAFTMEPID&label=Profile%20Views&color=ffffff&style=flat-square" alt="views"/>
 </p>
 
 ---
@@ -59,4 +64,26 @@ Beyond traditional MEP drafting, I specialize in building custom software tools 
 
 ---
 
-## 📊 Kompetensi Teknis MEP
+## 📬 Hubungi Saya
+
+<p align="center">
+  <a href="https://www.draftmep.web.id">
+    <img src="https://img.shields.io/badge/Website-draftmep.web.id-ffffff?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+  </a>
+  &nbsp;
+  <a href="mailto:draftmepid@gmail.com">
+    <img src="https://img.shields.io/badge/Email-draftmepid%40gmail.com-ffffff?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+  &nbsp;
+  <a href="https://wa.me/6282246371931">
+    <img src="https://img.shields.io/badge/WhatsApp-0822%204637%201931-ffffff?style=for-the-badge&logo=whatsapp&logoColor=black"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>⚙️ MEP Engineer by profession · 💻 Web Developer by curiosity · 🤖 AI enthusiast by passion</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:1f2937,100:0d1117&height=120&section=footer" alt="footer" />
+</p>
