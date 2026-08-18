@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,35:111111,65:222222,100:444444&height=260&section=header&text=FAUZAN%20HAZIMA&fontSize=54&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&stroke=FFFFFF&strokeWidth=2&desc=⚔%20BIM%20WARRIOR%20•%20AUTOMATION%20BUILDER%20⚔&descAlignY=63&descSize=15&descColor=DDDDDD" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,35:111111,65:222222,100:444444&height=260&section=header&text=FAUZAN%20HAZIMA&fontSize=54&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&stroke=FFFFFF&strokeWidth=2&desc=⚔%20BIM%20WARRIOR%20•%20AUTOMATION%20BUILDER%20•%20WEB%20DEVELOPER%20•%20AI%20ENTHUSIAST%20⚔&descAlignY=63&descSize=15&descColor=DDDDDD" width="100%" alt="header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=900&height=60&lines=CODE+IS+MY+SWORD.;SYSTEMS+ARE+MY+ARENA.;AUTOMATE+OR+BE+DESTROYED.;NO+FEAR.+NO+MERCY." alt="typing" />
 
@@ -16,11 +16,11 @@
 
 > *"Every draft is a duel. Every workflow is a war. I don’t just build systems — I build the weapons that conquer chaos."*
 
-BIM Engineer yang menjadikan HVAC, plumbing, fire fighting, dan electrical drafting sebagai ** medan perang otomatisasi** — dengan **Python, AutoLISP, C#, Dynamo, Revit, AutoCAD** dan **AI**.
+Engineer yang menjadikan HVAC, plumbing, fire fighting, electrical drafting, dan web development sebagai ** medan perang otomatisasi** — dengan **Python, AutoLISP, C#, TypeScript, Dynamo, Revit, AutoCAD, Web Tech** dan **AI**.
 
 <div align="center">
 
-`BIM` ⚔ `CAD AUTOMATION` ⚔ `SOFTWARE` ⚔ `AI` ⚔ `AUTONOMOUS WARFARE`
+`BIM` ⚔ `CAD AUTOMATION` ⚔ `SOFTWARE` ⚔ `WEB DEV` ⚔ `AI WARFARE`
 
 </div>
 
@@ -30,9 +30,9 @@ BIM Engineer yang menjadikan HVAC, plumbing, fire fighting, dan electrical draft
 
 ### ⚔ Arsenal of War
 
-| 🛡 Engineering | ⚔ BIM / CAD | 🔥 Code | ⚡ AI |
-|----------------|-------------|---------|-------|
-| HVAC · Plumbing · Fire Fighting · Electrical | Revit · AutoCAD · Dynamo · SketchUp | Python · C# / .NET · AutoLISP · TypeScript | LLM Agents · CV · API Integration |
+| 🛡 Engineering | ⚔ BIM / CAD | 🔥 Code | 🌐 Web Dev | ⚡ AI |
+|----------------|-------------|---------|------------|-------|
+| HVAC · Plumbing · Fire Fighting · Electrical | Revit · AutoCAD · Dynamo · SketchUp | Python · C# / .NET · AutoLISP · TypeScript | HTML · CSS · JavaScript · React | LLM Agents · CV · API Integration |
 
 ---
 
