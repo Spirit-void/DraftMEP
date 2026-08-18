@@ -16,24 +16,18 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MEPCENTER&label=Profile%20Views&color=00e676&style=flat-square" alt="views"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/MEP%20Engineer-10%2B%20Tahun-00e676?style=flat-square"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Proyek%20Selesai-250%2B-06b6d4?style=flat-square"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/SKK%20PUPR-Level%207-a855f7?style=flat-square"/>
-  &nbsp;
   <a href="https://www.instagram.com/fauzan_hazima"><img src="https://img.shields.io/badge/Instagram-fauzan__hazima-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
-## 👤 Tentang Saya
+## 👤 About Me
 
-Seorang **MEP Engineer** dengan 10+ tahun pengalaman di proyek gedung komersial, apartemen, hotel, rumah sakit, dan industri pabrik. Terbiasa mengerjakan sistem Mekanikal, Elektrikal, Plumbing, Fire Fighting, dan Elektronik dari tahap **Detail Engineering Design (DED)** hingga komisioning lapangan.
+I am a **MEP Engineer and BIM Modeler** with a strong focus on technical precision and design efficiency. My professional journey is defined by a deep commitment to optimizing construction workflows through engineering automation.
 
-Di luar dunia engineering, saya membangun **aplikasi web full-stack** — didorong rasa penasaran pada teknologi dan AI. Berawal dari HTML/CSS/JS murni (platform **MEP Center**), kini berkembang ke ekosistem modern: **React + Tailwind + shadcn/ui** di front-end, **Supabase (PostgreSQL, Auth, Realtime)** di back-end, plus pipeline **data real-time berbasis WebSocket** dan integrasi **AI/LLM** untuk otomasi dan analitik.
+Beyond traditional MEP drafting, I specialize in building custom software tools using **Python and AutoLISP** to streamline complex design processes, such as HVAC calculations and project management tasks. Driven by curiosity and a developer's mindset, I constantly explore the intersection of construction engineering, software development, and AI to create smarter, more efficient solutions for the industry.
 
-> *"Dari lapangan konstruksi ke baris kode — engineering mindset, developer spirit."*
+> *"Bridging the gap between construction sites and code — engineering precision meets software innovation."*
 
 ---
 
@@ -43,10 +37,6 @@ Di luar dunia engineering, saya membangun **aplikasi web full-stack** — didoro
 ![Revit](https://img.shields.io/badge/Revit-BIM-0696D7?style=flat&logo=autodesk&logoColor=white)
 ![Sketchup](https://img.shields.io/badge/SketchUp-3D-005F9E?style=flat)
 ![ETAP](https://img.shields.io/badge/ETAP-Power%20System-facc15?style=flat)
-![VRV Express](https://img.shields.io/badge/VRV%20Express-HVAC-06b6d4?style=flat)
-![Headload](https://img.shields.io/badge/Headload%20Calc-HVAC-f59e0b?style=flat)
-![PlanSwift](https://img.shields.io/badge/PlanSwift-Estimasi-22c55e?style=flat)
-![MS Project](https://img.shields.io/badge/MS%20Project-Scheduling-107C41?style=flat&logo=microsoft&logoColor=white)
 
 ## 💻 Web Development
 
@@ -54,23 +44,13 @@ Di luar dunia engineering, saya membangun **aplikasi web full-stack** — didoro
 ![Next.js](https://img.shields.io/badge/Next.js-15-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat&logo=reactquery&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla%20JS-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 ## 🗄️ Backend · Data · Realtime
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-Realtime-010101?style=flat&logo=socketdotio&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat&logo=fastapi&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
 ![AI / LLM](https://img.shields.io/badge/AI%20%2F%20LLM-Integration-a855f7?style=flat&logo=openai&logoColor=white)
 
 ## 🧰 Workflow
@@ -78,101 +58,6 @@ Di luar dunia engineering, saya membangun **aplikasi web full-stack** — didoro
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-#### ⚙️ MEP Center
-Platform teknik MEP + **21 kalkulator engineering** (SNI/NFPA/ASHRAE/PUIL): HVAC, fire-fighting, plumbing, electrical, sound. 5 halaman edukasi + estimasi.
-
-`HTML` `CSS` `Vanilla JS` `Bootstrap 5` `Canvas API`
-
-🔗 [mepcenter.web.id](https://www.mepcenter.web.id)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🏗️ MEP Project Monitoring
-Dashboard pemantauan **progres & status pekerjaan proyek MEP** — visualisasi real-time untuk kontrol lapangan & reporting.
-
-`Next.js` `React` `Tailwind` `PostgreSQL`
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-#### 📡 Real-Time Market Screener
-Engine screening **data pasar live** — deteksi anomali positioning via **z-score statistik 30 hari** + score-velocity, disajikan di **dashboard 7 halaman** + alert otomatis. *(Riset / paper-test.)*
-
-`Node.js` `Next.js 14` `Prisma` `PostgreSQL` `PM2`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🤖 Event-Driven Automation
-Platform otomasi **berbasis webhook** (alerting → execution API) dengan keamanan produksi: **AES-256-GCM**, constant-time compare, dedup, rate-limit, validasi Zod.
-
-`Next.js 15` `TypeScript` `Prisma` `TanStack Query` `Zustand`
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-#### 📊 Investment Planning Simulator
-Web interaktif **simulasi investasi jangka panjang (DCA)** — proyeksi compound-growth 20 tahun, 3 skenario, chart interaktif yang update real-time.
-
-`JavaScript` `Chart.js` `SVG`
-
-</td>
-<td width="50%" valign="top">
-
-#### 📡 Real-Time Data Stream Monitor
-Monitor **stream data pasar via WebSocket** latensi rendah — agregasi & deteksi event volume besar secara live, langsung dari terminal.
-
-`Python` `WebSocket` `asyncio`
-
-</td>
-  </tr>
-</table>
-
----
-
-## 💼 Pengalaman Kerja
-
-| Tahun | Posisi | Perusahaan | Proyek |
-|-------|--------|------------|--------|
-| 2024–skrg | MEP Engineer | PT Atmo Jaya Tehnik | Gudang Garam Unit V & XII (MEP, Struktur Baja, Sistem Steam) |
-| 2024 | MEP Engineer | PT Pilar Ekatama | RSUD Eka Candrarini, Surabaya |
-| 2021–2024 | MEP Engineer | PT Citragemilang Sentosa | NHM Office Penjaringan, Chillax Soho Sudirman, Froggy BSD |
-| 2020–2021 | MEP Engineer | PT Surya Marga Luhur | Renovasi Hotel Harris Kelapa Gading |
-| 2016–2020 | Drafter MEP | PT Surya Marga Luhur | Springlake Apartement, Gedung Abadi, Margocity Mall |
-
----
-
-## 🎓 Pendidikan
-
-| Tahun | Institusi | Jurusan |
-|-------|-----------|---------|
-| 2019–2023 | Institut Teknologi Budi Utomo (ITBU) | S1 Teknik Elektro · IPK 3.43 |
-| 2013–2016 | SMKN 1 Nganjuk | Teknik Instalasi Tenaga Listrik (TITL) |
-
----
-
-## 🏅 Sertifikasi
-
-| Sertifikat | Level | Lembaga |
-|------------|-------|---------|
-| SKK Ahli Muda Manajemen Proyek | Level 7 | Kementerian PUPR |
-| SKK Teknisi Madya Instalasi Listrik TR | Level 5 | Kementerian ESDM |
-| SKK Teknisi Madya Distribusi Listrik TR | Level 5 | Kementerian ESDM |
 
 ---
 
