@@ -10,13 +10,11 @@
 
 <p align="center">
   <b>MEP Engineer · Freelance · Cikarang, Indonesia 🇮🇩</b><br/>
-  <sub>🌐 <a href="https://www.mepcenter.web.id">mepcenter.web.id</a> &nbsp;|&nbsp; 📧 Mepcenter.as@gmail.com &nbsp;|&nbsp; 📱 0895370734896</sub>
+  <sub>🌐 <a href="https://www.draftmep.web.id">draftmep.web.id</a> &nbsp;|&nbsp; 📧 draftmepid@gmail.com &nbsp;|&nbsp; 📱 0895370734896</sub>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MEPCENTER&label=Profile%20Views&color=00e676&style=flat-square" alt="views"/>
-  &nbsp;
-  <a href="https://www.instagram.com/fauzan_hazima"><img src="https://img.shields.io/badge/Instagram-fauzan__hazima-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=DRAFTMEPID&label=Profile%20Views&color=00e676&style=flat-square" alt="views"/>
 </p>
 
 ---
