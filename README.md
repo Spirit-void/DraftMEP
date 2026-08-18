@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ANIMASI ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:065f46,100:00e676&height=210&section=header&text=Andri%20Susandianto&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=MEP%20Engineer%20%C2%B7%20Web%20Developer%20%C2%B7%20AI%20Enthusiast&descAlignY=58&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:065f46,100:00e676&height=210&section=header&text=Fauzan%20Hazima&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=MEP%20Engineer%20%C2%B7%20Web%20Developer%20%C2%B7%20AI%20Enthusiast&descAlignY=58&descSize=18" alt="header" />
 </p>
 
 <!-- ===================== TYPING ANIMASI ===================== -->
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>MEP Engineer · Freelance · Nganjuk, Jawa Timur 🇮🇩</b><br/>
+  <b>MEP Engineer · Freelance · Cikarang, Indonesia 🇮🇩</b><br/>
   <sub>🌐 <a href="https://www.mepcenter.web.id">mepcenter.web.id</a> &nbsp;|&nbsp; 📧 Mepcenter.as@gmail.com &nbsp;|&nbsp; 📱 0895370734896</sub>
 </p>
 
@@ -22,7 +22,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/SKK%20PUPR-Level%207-a855f7?style=flat-square"/>
   &nbsp;
-  <a href="https://www.instagram.com/otnaidnasus"><img src="https://img.shields.io/badge/Instagram-otnaidnasus-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/fauzan_hazima"><img src="https://img.shields.io/badge/Instagram-fauzan__hazima-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
@@ -177,46 +177,3 @@ Monitor **stream data pasar via WebSocket** latensi rendah — agregasi & deteks
 ---
 
 ## 📊 Kompetensi Teknis MEP
-
-```
-✅ DED (Detail Engineering Design) — Mekanikal, Elektrikal, Plumbing, Fire, Elektronik
-✅ BIM Modeling — Revit MEP, Clash Detection, Koordinasi multi-disiplin
-✅ Simulasi ETAP — Load flow, Short circuit, Voltage drop, Capacitor bank
-✅ HVAC Calculation — Cooling load, VRF/VRV selection, Headload calc
-✅ Shop Drawing & As-Built — 2D layout, Isometrik, Komposit, Potongan
-✅ RAB & RKS — Estimasi biaya, Spesifikasi teknis, Bill of Quantity
-✅ Commissioning — Pressure test, Flow test, Pump performance, IAT
-✅ Dokumen Kontrak — BA klarifikasi, RFI, VO, Approval material, S-Curve
-✅ Struktur Baja & Mekanikal Mesin — Frame crane, Silo, Conveyor (industri)
-✅ Sistem Steam — Perpipaan dan utilitas steam proses industri
-```
-
----
-
-## 📬 Hubungi Saya
-
-<p align="center">
-  <a href="https://www.mepcenter.web.id">
-    <img src="https://img.shields.io/badge/Website-mepcenter.web.id-00e676?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:Mepcenter.as@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Mepcenter.as%40gmail.com-1a7f4b?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/otnaidnasus">
-    <img src="https://img.shields.io/badge/Instagram-otnaidnasus-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://wa.me/62895370734896">
-    <img src="https://img.shields.io/badge/WhatsApp-0895370734896-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <sub>⚙️ MEP Engineer by profession · 💻 Web Developer by curiosity · 🤖 AI enthusiast by passion</sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e676,50:065f46,100:0d1117&height=120&section=footer" alt="footer" />
-</p>
